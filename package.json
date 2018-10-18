@@ -1,0 +1,8 @@
+{
+  "name": "web-components-routing",
+  "version": "1.0.0",
+  "description": "Проверка рутера (Vaadin Router) для веб-компонентов",
+  "repository": "https://github.com/newbornfrontender/web-components-routing.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
