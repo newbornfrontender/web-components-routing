@@ -5,6 +5,9 @@
   "repository": "https://github.com/newbornfrontender/web-components-routing.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "serve": "node server.js"
+  },
   "dependencies": {
     "express": "^4.16.4"
   }
