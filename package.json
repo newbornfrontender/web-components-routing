@@ -4,5 +4,8 @@
   "description": "Проверка рутера (Vaadin Router) для веб-компонентов",
   "repository": "https://github.com/newbornfrontender/web-components-routing.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
